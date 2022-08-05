@@ -2,13 +2,15 @@
 
 ## Overview
 
-The purpose of our project is to analyze cryptocurrency data using an Unsupervised Machine Learning algorithm in order to know how to group data into a classification system for an investment.
+The **purpose** of our project is to analyze cryptocurrency data using an Unsupervised Machine Learning algorithm in order to know how to group data into a classification system for an investment.
 
-To achieve this objective, We utilized Python, Jupyter Notebook, Pandas, Scikit-learn, hvplot, and Plotly.
+To accomplish our goal, We performed four technical analysis that consist of (1) preprocessing the data for PCA, (2) reducing data dimensions using PCA, (3) clustering cryptocurrencies using K-Means and (4) vizualizing cryptocurrencies results. 
+
+As **resources** for the project, We utilized Python, Jupyter Notebook, Pandas, Scikit-learn, hvplot, and Plotly.
 
 ## Results
 
-The charts below show some visualizations after using a unsupervised machine learning clustering algorithm (K-Mean) to group cryptocurrency data.
+The charts below show some visualizations after using an unsupervised machine learning clustering algorithm (K-Mean) to group cryptocurrency data.
 
 ### Elbow curve
 ![Alt text](/Resources/elbow_curve.png "imagen1")
