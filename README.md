@@ -13,7 +13,7 @@ The charts below show some visualizations after using a unsupervised machine lea
 ### Elbow curve
 ![Alt text](/Resources/elbow_curve.png "imagen1")
 
-### 3D Model plot
+### 3D Model  plot
 ![Alt text](/Resources/3d_model.png "imagen2")
 
 ### Tradeable Cryptocurrencies Dataframe
