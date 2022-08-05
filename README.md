@@ -16,7 +16,7 @@ The charts below show some visualizations after using a unsupervised machine lea
 ### 3D Model plot
 ![Alt text](/Resources/3d_model.png "imagen2")
 
-### Cryptocurrencies table
+### Tradeable Cryptocurrencies Dataframe
 ![Alt text](/Resources/table.png "imagen3")
 
 ### Scatter plot grouped by class
