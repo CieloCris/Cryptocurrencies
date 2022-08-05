@@ -2,9 +2,9 @@
 
 ## Overview
 
-The purpose of our project is to analyze cryptocurrency data using Unsupervised Machine Learning models to know how to group data into a classification system for an investment.
+The purpose of our project is to analyze cryptocurrency data using an Unsupervised Machine Learning algorithm in order to know how to group data into a classification system for an investment.
 
-To achieve this objective, We utilized Python, Jupyter Notebook, Scikit-learn, hvplot, and Plotly.
+To achieve this objective, We utilized Python, Jupyter Notebook, Pandas, Scikit-learn, hvplot, and Plotly.
 
 ## Results
 
