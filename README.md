@@ -10,7 +10,7 @@ As **resources** for the project, We utilized Python, Jupyter Notebook, Pandas, 
 
 ## Results
 
-The charts below show some visualizations after using an unsupervised machine learning clustering algorithm (K-Mean) to group cryptocurrency data.
+The charts below show some visualizations after using an unsupervised machine learning clustering algorithm (K-Means) to group cryptocurrency data.
 
 ### Elbow curve
 ![Alt text](/Resources/elbow_curve.png "imagen1")
